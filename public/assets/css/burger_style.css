@@ -1,0 +1,60 @@
+body {
+	background-color: yellow;
+}
+img {
+    position: relative;
+    right: 0px;
+    left: 40%;
+}
+h1 {
+    position: relative;
+    right: 0px;
+    left: 41%;
+}
+ul.devoured {
+    position: absolute;
+    left: 51%;
+    width: 200px;
+    margin-right: 0px;
+    top: 45%;
+    margin-left: 8px;
+}
+ul.not-devoured {
+    position: relative;
+    left: 31%;
+    width: 200px;
+    margin-right: 0px;
+}
+li.burger-list {
+    padding: 10px;
+}
+h2 {
+    position: relative;
+    left: 43%;
+    margin-top: 50px;
+}
+.form-group {
+    position: relative;
+    left: 39%;
+}
+button.submit {
+    position: relative;
+    left: 46%;
+    margin-top: 10px;
+}
+form.create-update-form.AVAST_PAM_nonloginform {
+    position: relative;
+    top: 100%;
+    bottom: 0%;
+}
+button.devour {
+    margin-top: 2px;
+}
+li.burger-list {
+    padding: 10px;
+    background-color: #dbd9d2;
+    border: solid;
+    border-width: 1px;
+    min-height: 43px;
+}
+
