@@ -1,60 +1,39 @@
-body {
-	background-color: yellow;
-}
-img {
-    position: relative;
-    right: 0px;
-    left: 40%;
-}
-h1 {
-    position: relative;
-    right: 0px;
-    left: 41%;
-}
-ul.devoured {
-    position: absolute;
-    left: 51%;
-    width: 200px;
-    margin-right: 0px;
-    top: 45%;
-    margin-left: 8px;
-}
-ul.not-devoured {
-    position: relative;
-    left: 31%;
-    width: 200px;
-    margin-right: 0px;
-}
-li.burger-list {
-    padding: 10px;
-}
-h2 {
-    position: relative;
-    left: 43%;
-    margin-top: 50px;
-}
-.form-group {
-    position: relative;
-    left: 39%;
-}
-button.submit {
-    position: relative;
-    left: 46%;
-    margin-top: 10px;
-}
-form.create-update-form.AVAST_PAM_nonloginform {
-    position: relative;
-    top: 100%;
-    bottom: 0%;
-}
-button.devour {
-    margin-top: 2px;
-}
-li.burger-list {
-    padding: 10px;
-    background-color: #dbd9d2;
-    border: solid;
-    border-width: 1px;
-    min-height: 43px;
+
+.jumbotron {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    color: inherit;
+    background-color: #ffcd54;
+    text-align: center;
 }
 
+.jumbotron .h1, .jumbotron h1 {
+    color: #fc3f02;
+}
+
+.list-group-item {
+    background: #f5f5f5;
+    margin: 6px;
+    text-align: center;
+}
+
+button, input, select, textarea {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    margin-top: 20px;
+}
+
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #ffcd54;
+}
+
+button#order {
+    margin: 0px;
+    margin-left: 41px;
+}

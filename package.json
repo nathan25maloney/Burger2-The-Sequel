@@ -1,14 +1,15 @@
 {
-  "name": "burger",
+  "name": "burgersequel",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
   "dependencies": {
     "body-parser": "^1.17.2",
     "express": "^4.15.3",
-    "express-handlebars": "^3.0.0",
+    "fs": "^0.0.1-security",
     "method-override": "^2.3.9",
-    "mysql": "^2.13.0"
+    "path": "^0.12.7",
+    "sequelize": "^4.4.2"
   },
   "devDependencies": {},
   "scripts": {
@@ -17,12 +18,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nathan25maloney/burger.git"
+    "url": "git+https://github.com/nathan25maloney/Burger2-The-Sequel.git"
   },
-  "author": "",
+  "author": "Nathan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nathan25maloney/burger/issues"
+    "url": "https://github.com/nathan25maloney/Burger2-The-Sequel/issues"
   },
-  "homepage": "https://github.com/nathan25maloney/burger#readme"
+  "homepage": "https://github.com/nathan25maloney/Burger2-The-Sequel#readme"
 }
