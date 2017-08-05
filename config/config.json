@@ -16,7 +16,7 @@
   "production": {
     "username": "vd55celf7nngybrk",
     "password": "qj4hw300m7wij6es",
-    "database": "JAWSDB_URL",
+    "database": "mysql://vd55celf7nngybrk:qj4hw300m7wij6es@dyud5fa2qycz1o3v.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/v5nwji45uif5oeec",
     "host": "dyud5fa2qycz1o3v.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql"
   }
